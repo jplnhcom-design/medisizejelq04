@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medisizejelq04.vercel.app/sitemap.xml
